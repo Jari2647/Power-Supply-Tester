@@ -14,4 +14,4 @@ Hardware Components
 
 Library used - Integrated arduino 1602a LCD library
 
-[PSUTesterSchematic.pdf](https://github.com/user-attachments/files/24604561/PSUTesterSchematic.pdf)
+<img width="1769" height="1221" alt="image" src="https://github.com/user-attachments/assets/f956ab8b-8d56-4525-b03a-74ea03a8c685" />
