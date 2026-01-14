@@ -14,4 +14,4 @@ Hardware Components
 
 Library used - Integrated arduino 1602a LCD library
 
-[CS3651 PSU Tester.pdf](https://github.com/user-attachments/files/24604557/CS3651.PSU.Tester.pdf)
+[PSUTesterSchematic.pdf](https://github.com/user-attachments/files/24604561/PSUTesterSchematic.pdf)
